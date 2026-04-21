@@ -99,3 +99,4 @@ float semester2Gpa = semester2Total / semester2Units;
 
     return 0;
 }
+}
